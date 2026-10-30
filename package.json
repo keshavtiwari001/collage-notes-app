@@ -1,0 +1,39 @@
+{
+  "name": "academica",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@tiptap/extension-code-block-lowlight": "^3.30.0",
+    "@tiptap/extension-image": "^3.30.0",
+    "@tiptap/extension-link": "^3.30.0",
+    "@tiptap/extension-placeholder": "^3.30.0",
+    "@tiptap/extension-text-align": "^3.30.0",
+    "@tiptap/extension-typography": "^3.30.0",
+    "@tiptap/extension-underline": "^3.30.0",
+    "@tiptap/pm": "^3.30.0",
+    "@tiptap/react": "^3.30.0",
+    "@tiptap/starter-kit": "^3.30.0",
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.10.0",
+    "html2pdf.js": "^0.14.0",
+    "lowlight": "^3.3.0",
+    "lucide-react": "^1.31.0",
+    "mongoose": "^9.9.2",
+    "next": "16.3.0",
+    "nodemailer": "^9.0.5",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.0",
+    "tailwindcss": "^4"
+  }
+}
